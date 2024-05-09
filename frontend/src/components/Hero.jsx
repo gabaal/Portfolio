@@ -44,9 +44,9 @@ const Hero = () => {
           />
         </h1>
         <p className="font-bold my-6 sm:text-lg lg:text-xl max-w-[200px] md:max-w-[600px] ml-1 text-gray-300">
-          My name is Gerald Baalham and I have 5+ years experience in web
-          development. A complete jigsaw, all of the pieces fit together
-          perfectly.
+          My name is Gerald Baalham and I create full stack web applications. I
+          complete the whole jigsaw, fitting all of the pieces together
+          perfectly for a smooth development process.
         </p>
       </div>
 
