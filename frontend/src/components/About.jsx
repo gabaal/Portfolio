@@ -1,4 +1,3 @@
-import React from "react";
 import notebook from "../assets/notebookM.png";
 import mobile from "../assets/mobileR.png";
 
